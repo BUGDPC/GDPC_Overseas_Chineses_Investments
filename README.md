@@ -1,19 +1,8 @@
 
-<br />
-<p align="center">
-  <a href="https://www.bu.edu/gdp/">
-    <img src="http://www.bu.edu/gdp/files/2020/05/GDPC_external-Logo.No_Background.png" alt="Logo" width="480"/>
-  </a>
-</p>
 
-# Data Scraper for Oversease Chinese Investments, A Research Database created by the Global Development Policy Center
+# Data Scraper for Oversease Chinese Investments, A Research Database
 
-Data Collection &amp; Processing Code for Boston University's GDPC' Overseas Chineses Investments, 2020
-
-Data Code-Based Collection Methods William Kring, Joshua Pitts
-Code Authorship Joshua Pitts
-
-
+* Citation to be added after publication.
 <br/>
 
 ## Table of Contents
@@ -28,7 +17,7 @@ Code Authorship Joshua Pitts
 ## About The Project
 The objective of the research study was to create a database of global Chinese investments. Specifically, to identify financing arrangements from Export-Import Bank of China and China
 Development Bank to various projects around the world. We use news aggregation services
-The full study, research, and publications can be found [here] (To be updated after publication). The code here is a small piece of the overall data collection, methodology, and verfication steps that went into this research.
+The full study, research, and publications can be found [here] (To be updated after publication). The code here is a small piece of the overall data collection, methodology, and verification steps that went into this research.
 
 ## Usage
 The project code requires a number of packages and software to run. These include an existing sqlite3 installation and database, python3 installation, python packages (see scripts). In addition, this uses Azure marketplace API to make data requests, so an account
